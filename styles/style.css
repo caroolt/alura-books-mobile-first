@@ -1,0 +1,29 @@
+@import url("/styles/header.css");
+@import url("/styles/banner.css");
+@import url("/styles/carrossel.css");
+@import url("/styles/topics.css");
+@import url("/styles/contato.css");
+@import url("/styles/footer.css");
+
+:root {
+  --primary-white: #FFFFFF;
+  --background-color: #EBECEE;
+  --footer-color: #F9F9F9;
+  --primary-grey: ##C4C4C4;
+  --primary-black: #000000;
+  --primary-orange: #EB9B00;
+  --primary-blue: #002F52;
+  --gradient-blue: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+  --font-grey: #474646;
+  --grey-title: #858585;
+}
+
+* {
+  font-family: 'Poppins' !important;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+body {
+  background-color: var(--background-color);
+}
