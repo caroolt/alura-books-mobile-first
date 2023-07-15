@@ -12,6 +12,8 @@
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+<br/>
+:small_blue_diamond: [Desenvolvedores](#desenvolvedorescontribuintes)
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
